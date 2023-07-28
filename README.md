@@ -64,7 +64,8 @@
 
 更多[可视化方法](./doc/visualization.md)
 
-
+##优秀文章代表
++ [Benchmarking and Analyzing Generative Data for Visual Recognition] (https://arxiv.org/pdf/2307.13697.pdf)
 <!--
 # 如沐春风
 
